@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "addons",
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "address": null, "lotSize": null, "units": null, "bldFtprint": null, "bldArea": 7, "bldLv": 2, "zoning": null, "slope20": null, "histPreser": null, "seismicHaz": null, "permitComp": null, "length": null, "height": 6.64, "height_ft": 21.786, "color": "blue" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -122.427949313039377, 37.72638845101531 ], [ -122.42796692907352, 37.726397101032433 ], [ -122.427966951818789, 37.726397111895416 ], [ -122.427944567272192, 37.726426763460587 ], [ -122.427926823, 37.726418338999792 ], [ -122.427949289000182, 37.726388513999595 ], [ -122.427949313039377, 37.72638845101531 ] ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "address": null, "lotSize": null, "units": null, "bldFtprint": null, "bldArea": 23, "bldLv": 2, "zoning": null, "slope20": null, "histPreser": null, "seismicHaz": null, "permitComp": null, "length": null, "height": 6.64, "height_ft": 21.786, "color": "blue" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -122.427781741060414, 37.726333657051953 ], [ -122.427772997999682, 37.726345056000262 ], [ -122.427770123938529, 37.72634370600241 ], [ -122.427751497422349, 37.726368759640202 ], [ -122.42770490806339, 37.726346518955943 ], [ -122.427733253524039, 37.726310487966913 ], [ -122.427781741060414, 37.726333657051953 ] ] ] ] } }
+]
+}
